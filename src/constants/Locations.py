@@ -1,0 +1,5 @@
+BEDROOM:str = "Bedroom"
+BEGINNING_CORRIDOR:str = "Beginning of the corridor"
+END_CORRIDOR:str = "End of the corridor"
+BATHROOM:str = "Bathroom"
+WINDOW:str = "Window"
